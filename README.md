@@ -1,5 +1,5 @@
 # Christoffer Bredo Lillelund
-My name is Christoffer Bredo Lillelund.
+My name is Christoffer Bredo Lillelund, but you can call me Bredo.
 
 I am a Consultant at Visma Consulting A/S located in Visma House at Gærtorvet, Copenhagen, Denmark.
 
