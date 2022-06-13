@@ -136,19 +136,6 @@ __Technologies used__:
 [Back to Top](#christoffer-bredo-lillelund)
 
 # Roles
-<style>
-    .skill-table{
-        margin: 10px;
-        font-family: "Lucida Console", "Courier New", monospace;
-        width: 50%
-    }
-    .skill-table td{
-        width: 10%;
-    }
-    .skill-table thead {
-        font-weight: bold;
-    }
-</style>
 
 <table class="skill-table">
     <thead>
