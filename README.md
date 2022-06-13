@@ -1,20 +1,4 @@
-# Table of Contents
-- [Table of Contents](#table-of-contents)
-- [Details](#details)
-  - [Key words](#key-words)
-- [Projects](#projects)
-  - [Kriminialforsorgen PUMA project](#kriminialforsorgen-puma-project)
-  - [Moodagent A/S Music Streaming](#moodagent-as-music-streaming)
-  - [vCatch Automatic test system](#vcatch-automatic-test-system)
-  - [Property Assessment System (UFST)](#property-assessment-system-ufst)
-- [Roles](#roles)
-    - [Legend](#legend)
-- [Technologies](#technologies)
-    - [Legend](#legend-1)
-- [Project management](#project-management)
-    - [Legend](#legend-2)
-
-# Details
+# Christoffer Bredo Lillelund
 My name is Christoffer Bredo Lillelund.
 
 I am a Consultant at Visma Consulting A/S located in Visma House at Gærtorvet, Copenhagen, Denmark.
@@ -38,6 +22,22 @@ I have a wide variety of interests and skills, ranging from C# Developer and Clo
     SAFe,
     Scrum
 </div>
+
+# Table of Contents
+- [Christoffer Bredo Lillelund](#christoffer-bredo-lillelund)
+  - [Key words](#key-words)
+- [Table of Contents](#table-of-contents)
+- [Projects](#projects)
+  - [Kriminialforsorgen PUMA project](#kriminialforsorgen-puma-project)
+  - [Moodagent A/S Music Streaming](#moodagent-as-music-streaming)
+  - [vCatch Automatic test system](#vcatch-automatic-test-system)
+  - [Property Assessment System (UFST)](#property-assessment-system-ufst)
+- [Roles](#roles)
+    - [Legend](#legend)
+- [Technologies](#technologies)
+    - [Legend](#legend-1)
+- [Project management](#project-management)
+    - [Legend](#legend-2)
 
 
 # Projects
@@ -133,7 +133,7 @@ __Technologies used__:
 * Terraform
 * Git
 
-[Back to Top](#table-of-contents)
+[Back to Top](#christoffer-bredo-lillelund)
 
 # Roles
 <style>
@@ -198,7 +198,7 @@ __Technologies used__:
 [•••••] -> Expert
 ```
 
-[Back to Top](#table-of-contents)
+[Back to Top](#christoffer-bredo-lillelund)
 
 # Technologies
 
@@ -362,7 +362,7 @@ __Technologies used__:
 [•••••] -> Expert
 ```
 
-[Back to Top](#table-of-contents)
+[Back to Top](#christoffer-bredo-lillelund)
   
 # Project management
 <table class="skill-table">
@@ -421,5 +421,5 @@ __Technologies used__:
 [•••••] -> Expert
 ```
 
-[Back to Top](#table-of-contents)
+[Back to Top](#christoffer-bredo-lillelund)
 
