@@ -1,7 +1,7 @@
 # Christoffer Bredo Lillelund
 My name is Christoffer Bredo Lillelund, but you can call me Bredo.
 
-I am a Consultant at Visma Consulting A/S located in Visma House at Gærtorvet, Copenhagen, Denmark.
+I am a Consultant at [twoday](https://twoday.dk/) located in Visma House at Gærtorvet, Copenhagen, Denmark.
 
 I have a wide variety of interests and skills, ranging from C# Developer and Cloud solution Devops to Scrum master in Agile frameworks.
 
