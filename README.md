@@ -42,6 +42,40 @@ I have a wide variety of interests and skills, ranging from C# Developer and Clo
 
 # Projects
 
+## STAR City
+
+__Costumer__:  Styrelsen for Arbejdsmarked og Rekruttering (STAR) – Digitalisering og implementering (STAR City)
+
+__Period__: Jun 2022 - current
+
+__Role__: Developer and Scrum Master
+
+__Project__: VITAS / JobAG / JobAD
+
+__Description__:
+
+STAR is responsible for all public efforts towards increasing occupation and gathering data and providing information about the Danish job market.
+STAR has business oriented, citizen oriented, and a-kasse oriented systems to support the effort to decrease unemployment. 
+
+I have primarily been on business oriented solutions, such as VITAS, JobAG and JobAD. 
+VITAS is a business oriented digital form solution, used by jobcenters and companies to apply for adult apprentices, interns, wage subsidy, mentor help, and other arragements.
+JobAG (Jobnet for Arbejdsgivere) is a webpage for companies to create job ads and job orders, to help companies increase their workforce.
+JobAD is a backend solution for handling job ads and their lifecycle. 
+
+As a scrum master I facilitate the SCRUM events of the team, as well as keep track of velocity, estimate capacity and reporting on the teams progress and well-being to the customer.
+As a developer I am working with Angular and Angular JS frontends, C# backends and SQL databases. The applications are hosted on windows servers' IIS and is mostly handled by a central infrastrcture team.
+
+__Technologies used__:
+* C#
+* Angular, Angular JS
+* SQL
+* IIS
+* Windows Server
+* Stonebranch
+* REST
+* SOAP
+* Git
+
 ## Kriminialforsorgen PUMA project
 
 __Costumer__: Kriminalforsorgen
@@ -121,7 +155,7 @@ Since about 2011 the property assessments of all properties in Denmark was put o
 The whole project consisted of about 300 developers, business analysts, architects, testers, Product Owners, Scrum masters, project managers and more. We worked using the Scaled Agile Framework (SAFe), consisting of Program increments, sprints, PI Planning, etc.
 
 As a developer I cocreated templates and a socalled merge-engine to merge the data and corresponding business rules into a HTML format of a personalized letter for each citizen with their property assessment and all related information. This was done using HTML, Clojure, Clojurescript, AWS Lambda and more. 
-Further into the project I was appointed Tech Lead for team handling the orchistration of citizen letters. My responsibility included the deliveries of 4 developers and inmfrastructural deployment of the system, which orchistrated the generation, journaling, and publishing of personalized letters for citizens.
+Further into the project I was appointed Tech Lead for team handling the orchistration of citizen letters. My responsibility included the deliveries of 4 developers and infrastructural deployment of the system, which orchistrated the generation, journaling, and publishing of personalized letters for citizens.
 
 __Technologies used__:
 * Clojure
@@ -132,6 +166,7 @@ __Technologies used__:
 * Docker
 * Terraform
 * Git
+
 
 [Back to Top](#christoffer-bredo-lillelund)
 
@@ -246,7 +281,7 @@ __Technologies used__:
                 Angular 
             </td>
             <td>
-                [•----]
+                [•••--]
             </td>
         </tr>
         <tr>
