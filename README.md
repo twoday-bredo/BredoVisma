@@ -28,6 +28,7 @@ I have a wide variety of interests and skills, ranging from C# Developer and Clo
   - [Key words](#key-words)
 - [Table of Contents](#table-of-contents)
 - [Projects](#projects)
+  - [STAR City](#star-city)
   - [Kriminialforsorgen PUMA project](#kriminialforsorgen-puma-project)
   - [Moodagent A/S Music Streaming](#moodagent-as-music-streaming)
   - [vCatch Automatic test system](#vcatch-automatic-test-system)
