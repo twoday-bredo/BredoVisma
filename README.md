@@ -206,7 +206,7 @@ __Technologies used__:
                 Scrum master  
             </td>
             <td>
-                [••---] 
+                [•••--] 
             </td>
         </tr>
     </tbody>
